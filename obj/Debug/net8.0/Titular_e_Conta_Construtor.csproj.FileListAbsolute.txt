@@ -1,0 +1,15 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\bin\Debug\net8.0\Titular_e_Conta_Construtor.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\bin\Debug\net8.0\Titular_e_Conta_Construtor.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\bin\Debug\net8.0\Titular_e_Conta_Construtor.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\bin\Debug\net8.0\Titular_e_Conta_Construtor.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\bin\Debug\net8.0\Titular_e_Conta_Construtor.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.sourcelink.json
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\refint\Titular_e_Conta_Construtor.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\Titular_e_Conta_Construtor.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\PASTA DE TUDO 2024\Qualquer coisa\Coding\VsCode\VsC_Folders\Csharp\Projects_Csharp\Titular_e_Conta_Construtor\obj\Debug\net8.0\ref\Titular_e_Conta_Construtor.dll

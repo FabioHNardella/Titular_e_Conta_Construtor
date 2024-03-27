@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Titular_e_Conta_Construtor/1.0.0": {
+        "runtime": {
+          "Titular_e_Conta_Construtor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Titular_e_Conta_Construtor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
