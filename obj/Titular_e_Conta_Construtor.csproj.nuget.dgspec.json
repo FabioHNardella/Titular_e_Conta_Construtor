@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular&Conta_Construtor\\Titular&Conta_Construtor.csproj": {}
+    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular_e_Conta_Construtor\\Titular_e_Conta_Construtor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular&Conta_Construtor\\Titular&Conta_Construtor.csproj": {
+    "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular_e_Conta_Construtor\\Titular_e_Conta_Construtor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular&Conta_Construtor\\Titular&Conta_Construtor.csproj",
-        "projectName": "Titular&Conta_Construtor",
-        "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular&Conta_Construtor\\Titular&Conta_Construtor.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular_e_Conta_Construtor\\Titular_e_Conta_Construtor.csproj",
+        "projectName": "Titular_e_Conta_Construtor",
+        "projectPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular_e_Conta_Construtor\\Titular_e_Conta_Construtor.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular&Conta_Construtor\\obj\\",
+        "outputPath": "C:\\Users\\fabio\\OneDrive\\Área de Trabalho\\PASTA DE TUDO 2024\\Qualquer coisa\\Coding\\VsCode\\VsC_Folders\\Csharp\\Projects_Csharp\\Titular_e_Conta_Construtor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config"
